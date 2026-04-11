@@ -1,0 +1,140 @@
+keydeveventtypeid,event_name,keydevcategoryid,category_name
+1,Seeking to Sell/Divest,3.0,Potential Transactions
+3,Seeking Acquisitions/Investments,3.0,Potential Transactions
+5,Seeking Financing/Partners,3.0,Potential Transactions
+7,Bankruptcy - Other,6.0,Results Announcements/Corporate Communications
+7,Bankruptcy - Other,12.0,Bankruptcy Updates
+11,Delayed SEC Filings,5.0,Potential Red Flags/Distress Indicators
+11,Delayed SEC Filings,6.0,Results Announcements/Corporate Communications
+12,Delistings,4.0,Listing/Trading Related
+12,Delistings,5.0,Potential Red Flags/Distress Indicators
+16,Executive/Board Changes - Other,8.0,Corporate Structure Related
+21,Discontinued Operations/Downsizings,5.0,Potential Red Flags/Distress Indicators
+22,Strategic Alliances,7.0,Customer/Product Related
+23,Client Announcements,7.0,Customer/Product Related
+24,Regulatory Agency Inquiries,5.0,Potential Red Flags/Distress Indicators
+25,Lawsuits & Legal Issues,5.0,Potential Red Flags/Distress Indicators
+26,Corporate Guidance - Lowered,1.0,Company Forecasts and Ratings
+27,Corporate Guidance - Raised,1.0,Company Forecasts and Ratings
+28,Announcements of Earnings,6.0,Results Announcements/Corporate Communications
+29,Corporate Guidance - New/Confirmed,1.0,Company Forecasts and Ratings
+31,Business Expansions,7.0,Customer/Product Related
+32,Business Reorganizations,5.0,Potential Red Flags/Distress Indicators
+32,Business Reorganizations,8.0,Corporate Structure Related
+36,Preferred Stock Buybacks,6.0,Results Announcements/Corporate Communications
+41,Product-Related Announcements,7.0,Customer/Product Related
+42,Debt Financing Related,2.0,Announced/Completed Transactions
+43,Restatements of Operating Results,5.0,Potential Red Flags/Distress Indicators
+43,Restatements of Operating Results,6.0,Results Announcements/Corporate Communications
+44,Labor-related Announcements,5.0,Potential Red Flags/Distress Indicators
+45,Dividend Affirmations,10.0,Dividends/Splits
+46,Dividend Increases,10.0,Dividends/Splits
+47,Dividend Decreases,10.0,Dividends/Splits
+48,Earnings Calls,6.0,Results Announcements/Corporate Communications
+49,Guidance/Update Calls,6.0,Results Announcements/Corporate Communications
+50,Shareholder/Analyst Calls,6.0,Results Announcements/Corporate Communications
+51,Company Conference Presentations,6.0,Results Announcements/Corporate Communications
+52,M&A Calls,6.0,Results Announcements/Corporate Communications
+53,Stock Splits & Significant Stock Dividends,10.0,Dividends/Splits
+54,Stock Dividends (<5%),10.0,Dividends/Splits
+55,Earnings Release Date,6.0,Results Announcements/Corporate Communications
+56,Name Changes,8.0,Corporate Structure Related
+57,Exchange Changes,4.0,Listing/Trading Related
+58,Ticker Changes,4.0,Listing/Trading Related
+59,Auditor Going Concern Doubts,5.0,Potential Red Flags/Distress Indicators
+60,Address Changes,8.0,Corporate Structure Related
+61,Delayed Earnings Announcements,5.0,Potential Red Flags/Distress Indicators
+61,Delayed Earnings Announcements,6.0,Results Announcements/Corporate Communications
+62,Annual General Meeting,6.0,Results Announcements/Corporate Communications
+63,Considering Multiple Strategic Alternatives,3.0,Potential Transactions
+64,Ex-Div Date (Regular),10.0,Dividends/Splits
+65,M&A Rumors and Discussions,3.0,Potential Transactions
+73,Impairments/Write Offs,5.0,Potential Red Flags/Distress Indicators
+74,Debt Defaults,5.0,Potential Red Flags/Distress Indicators
+75,Index Constituent Drops,4.0,Listing/Trading Related
+75,Index Constituent Drops,5.0,Potential Red Flags/Distress Indicators
+76,Legal Structure Changes,8.0,Corporate Structure Related
+77,Changes in Company Bylaws/Rules,8.0,Corporate Structure Related
+78,Board Meeting,8.0,Corporate Structure Related
+79,Fiscal Year End Changes,8.0,Corporate Structure Related
+80,M&A Transaction Announcements,2.0,Announced/Completed Transactions
+81,M&A Transaction Closings,2.0,Announced/Completed Transactions
+82,M&A Transaction Cancellations,2.0,Announced/Completed Transactions
+83,Private Placements,2.0,Announced/Completed Transactions
+85,IPOs,2.0,Announced/Completed Transactions
+85,IPOs,4.0,Listing/Trading Related
+86,Follow-on Equity Offerings,2.0,Announced/Completed Transactions
+87,Fixed Income Offerings,2.0,Announced/Completed Transactions
+88,Derivative/Other Instrument Offerings,2.0,Announced/Completed Transactions
+89,Bankruptcy - Filing,2.0,Announced/Completed Transactions
+89,Bankruptcy - Filing,5.0,Potential Red Flags/Distress Indicators
+89,Bankruptcy - Filing,6.0,Results Announcements/Corporate Communications
+89,Bankruptcy - Filing,12.0,Bankruptcy Updates
+90,Bankruptcy - Conclusion,2.0,Announced/Completed Transactions
+90,Bankruptcy - Conclusion,6.0,Results Announcements/Corporate Communications
+90,Bankruptcy - Conclusion,12.0,Bankruptcy Updates
+91,Bankruptcy - Emergence/Exit,2.0,Announced/Completed Transactions
+91,Bankruptcy - Emergence/Exit,6.0,Results Announcements/Corporate Communications
+91,Bankruptcy - Emergence/Exit,12.0,Bankruptcy Updates
+92,End of Lock-Up Period,4.0,Listing/Trading Related
+93,Shelf Registration Filings,3.0,Potential Transactions
+94,Special Dividend Announced,10.0,Dividends/Splits
+95,Index Constituent Adds,4.0,Listing/Trading Related
+97,Special/Extraordinary Shareholders Meeting,6.0,Results Announcements/Corporate Communications
+99,Potential Privatization of Government Entities,3.0,Potential Transactions
+100,Ex-Div Date (Special),10.0,Dividends/Splits
+101,Executive Changes - CEO,8.0,Corporate Structure Related
+102,Executive Changes - CFO,8.0,Corporate Structure Related
+134,Composite Units Offerings,2.0,Announced/Completed Transactions
+135,Structured Products Offerings,2.0,Announced/Completed Transactions
+136,Public Offering Lead Underwriter Change,2.0,Announced/Completed Transactions
+137,Spin-Off/Split-Off,2.0,Announced/Completed Transactions
+138,Announcements of Sales/Trading Statement,6.0,Results Announcements/Corporate Communications
+139,Sales/Trading Statement Calls,6.0,Results Announcements/Corporate Communications
+140,Sales/Trading Statement Release Date,6.0,Results Announcements/Corporate Communications
+144,Estimated Earnings Release Date (S&P Global Derived),6.0,Results Announcements/Corporate Communications
+149,Conferences,6.0,Results Announcements/Corporate Communications
+150,Auditor Changes,5.0,Potential Red Flags/Distress Indicators
+152,Potential Buyback,3.0,Potential Transactions
+153,Bankruptcy – Asset Sale/Liquidation,6.0,Results Announcements/Corporate Communications
+153,Bankruptcy – Asset Sale/Liquidation,12.0,Bankruptcy Updates
+154,Bankruptcy – Financing,6.0,Results Announcements/Corporate Communications
+154,Bankruptcy – Financing,12.0,Bankruptcy Updates
+155,Bankruptcy – Reorganization,6.0,Results Announcements/Corporate Communications
+155,Bankruptcy – Reorganization,12.0,Bankruptcy Updates
+156,Investor Activism - Proposal Related,13.0,Investor Activism
+157,Investor Activism - Activist Communication,5.0,Potential Red Flags/Distress Indicators
+157,Investor Activism - Activist Communication,13.0,Investor Activism
+160,Investor Activism - Target Communication,13.0,Investor Activism
+163,Investor Activism - Proxy/Voting Related,13.0,Investor Activism
+164,Investor Activism - Agreement Related,13.0,Investor Activism
+172,Investor Activism - Nomination Related,13.0,Investor Activism
+177,Investor Activism - Financing Option from Activist,13.0,Investor Activism
+187,Investor Activism - Supporting Statements,13.0,Investor Activism
+192,Analyst/Investor Day,6.0,Results Announcements/Corporate Communications
+194,Special Calls,6.0,Results Announcements/Corporate Communications
+205,Regulatory Authority – Regulations,6.0,Results Announcements/Corporate Communications
+206,Regulatory Authority – Compliance,5.0,Potential Red Flags/Distress Indicators
+207,Regulatory Authority – Enforcement Actions,5.0,Potential Red Flags/Distress Indicators
+208,Macro: Releases,14.0,Macroeconomic Events
+209,Macro: General,14.0,Macroeconomic Events
+212,Macro: Holidays,14.0,Macroeconomic Events
+213,Dividend Cancellation or Suspension,10.0,Dividends/Splits
+214,Dividend Initiation,10.0,Dividends/Splits
+215,Preferred Dividend,10.0,Dividends/Splits
+216,S&P Events,6.0,Results Announcements/Corporate Communications
+218,Announcement of Interim Management Statement,6.0,Results Announcements/Corporate Communications
+219,Operating Results Release Date,6.0,Results Announcements/Corporate Communications
+220,Interim Management Statement Release Date,6.0,Results Announcements/Corporate Communications
+221,Operating Results Calls,6.0,Results Announcements/Corporate Communications
+222,Interim Management Statement Calls,6.0,Results Announcements/Corporate Communications
+223,Fixed Income Calls,6.0,Results Announcements/Corporate Communications
+224,Halt/Resume of Operations - Unusual Events,5.0,Potential Red Flags/Distress Indicators
+225,Corporate Guidance - Unusual Events,6.0,Results Announcements/Corporate Communications
+226,Announcement of Operating Results,6.0,Results Announcements/Corporate Communications
+230,Buyback - Change in Plan Terms,15.0,Transaction Updates
+231,Buyback Tranche Update,15.0,Transaction Updates
+232,Buyback Transaction Announcements,2.0,Announced/Completed Transactions
+233,Buyback Transaction Cancellations,2.0,Announced/Completed Transactions
+234,Buyback Transaction Closings,2.0,Announced/Completed Transactions
+235,Metals and Mining Calls,6.0,Results Announcements/Corporate Communications
